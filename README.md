@@ -1,2 +1,2 @@
 # tatanbo.github.io
-Welcome to my Page!
+## Welcome to my Page!
